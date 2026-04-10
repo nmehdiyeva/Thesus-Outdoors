@@ -5,7 +5,6 @@ const BestSellers = () => {
   
   return (
     <div className="bestSellers">
-      <h2>{t("home-sections.home-bestsellers.home_bestsellers_title")}</h2>
     </div>
   );
 };
