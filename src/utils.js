@@ -1,1 +1,1 @@
-export const formatImgUrl = (url) => `http://localhost:5000/${url}`;
+export const formatImgUrl = (url) => `https://thesus-backend-api.onrender.com/${url}`;
