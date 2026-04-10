@@ -1,8 +1,4 @@
-import { useTranslation } from "react-i18next";
-
-const BestSellers = () => {
-  const { t } = useTranslation();
-  
+const BestSellers = () => {  
   return (
     <div className="bestSellers">
     </div>
