@@ -20,7 +20,7 @@ import { CartProvider } from "./cartContext";
 import CheckoutPage from "./pages/CheckoutPage";
 import NotFound from "./pages/NotFound";
 
-axios.defaults.baseURL = "http://localhost:5000";
+axios.defaults.baseURL = "https://thesus-backend-api.onrender.com";
 
 const App = () => {
   return (
