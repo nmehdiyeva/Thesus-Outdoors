@@ -1,8 +1,5 @@
-const BestSellers = () => {  
-  return (
-    <div className="bestSellers">
-    </div>
-  );
+const BestSellers = () => {
+  return null;
 };
 
 export default BestSellers;
